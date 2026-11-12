@@ -1,0 +1,25 @@
+Acme Logistics - Remote Work Policy
+
+1. Purpose
+This policy explains how employees of Acme Logistics may work from home or from another location outside the office. It aims to give our teams flexibility while keeping customer service, security and teamwork at the level our clients expect.
+
+2. Who can work remotely
+Remote work is available to employees who have completed their probation period and whose role does not require them to be on site every day. Warehouse, driving and front-desk roles are usually not eligible. Each request is agreed between the employee and their manager, and can be reviewed at any time.
+
+3. Working hours and availability
+Remote employees keep the same working hours as their team. They must be reachable by phone, chat and email during core hours, from 10:00 to 16:00 local time. Meetings that are booked in the shared calendar take priority over personal plans during these hours. Employees who need to change their hours for a day should tell their manager in advance.
+
+4. Equipment and expenses
+Acme provides a laptop, a headset and access to the company network. Employees are responsible for a safe and quiet place to work and a reliable internet connection. Reasonable costs for extra equipment, such as a second screen, can be claimed once a year with a receipt and the manager's approval.
+
+5. Security and confidentiality
+Company devices must be locked when unattended and must never be shared with family members or friends. Customer data may only be stored in approved company systems, never on personal devices or personal cloud accounts. Employees must use the company VPN when working on public networks, such as in cafes or airports. Any lost device or suspected data leak must be reported to the IT help desk within one hour.
+
+6. Health and wellbeing
+Working from home can blur the line between work and personal time. Employees are encouraged to take regular breaks, to set up a comfortable workspace and to switch off at the end of the working day. Managers should hold a short check-in with each remote team member at least once a week.
+
+7. Performance
+Remote work is judged by results, not by hours online. Goals, deadlines and quality standards are the same as in the office. If performance drops, the manager and employee will agree on a plan, which may include more days in the office.
+
+8. Review
+This policy is reviewed every twelve months by the People team. Questions should be sent to people@acme-logistics.example.
